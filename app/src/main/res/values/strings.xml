@@ -1,4 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">To_Yu_App</string>
-    <string name="Tasks">Tasks</string>
+    <string name="app_name">Lista Attività</string>
+    <string-array name="priorita_array">
+        <item>Bassa</item>
+        <item>Media</item>
+        <item>Alta</item>
+        <item>Urgente</item>
+    </string-array>
 </resources>
