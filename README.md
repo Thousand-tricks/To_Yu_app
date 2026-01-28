@@ -71,6 +71,12 @@ ListaAttivita/
 - **UI**: Material Design
 - **Linguaggio**: Java
 
+## Screenshots
+<p align="center">
+  <img src="screenshotforREADME/first.png" width="300" />
+  <img src="screenshotforREADME/second.png" width="300" />
+</p>
+
 ## Autore
 
 Fierro Yuri
